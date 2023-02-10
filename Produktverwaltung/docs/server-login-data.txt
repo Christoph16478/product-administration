@@ -1,0 +1,14 @@
+# --------------------------- #
+# My SQL Server Login Data    #
+# --------------------------- #
+
+SQL-Server Adresse:
+--------------------
+XXXXXXXXXXXXXXXXXX
+
+Login Data:
+------------
+XXXXXXXXX
+XXXXXXXX
+XXXXXXXXXX
+XXXX

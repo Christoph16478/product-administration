@@ -1,0 +1,10 @@
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\bin\Debug\Produktverwaltung.exe.config
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\bin\Debug\Produktverwaltung.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\bin\Debug\Produktverwaltung.pdb
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.csprojAssemblyReference.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.Form1.resources
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.Properties.Resources.resources
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.exe
+C:\Users\chris\Desktop\Programmieren mit C#.NET\Projektaufgabe\Abschlussprojekt\Produktverwaltung\obj\Debug\Produktverwaltung.pdb
